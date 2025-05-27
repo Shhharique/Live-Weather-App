@@ -34,7 +34,8 @@
 
 ### 1. Clone the Repository
 
-```bash
+git bash :
+
 git clone https://github.com/your-username/Live-Weather-App.git
 cd Live-Weather-App
 
@@ -60,20 +61,18 @@ Visit http://localhost:8080 to view the app.
 
 
 
-
-##🌐 Live Demo
-
-Link : https://weathering-wave.netlify.app/
+### 🌐 Live Demo
+🔗 Link: https://weathering-wave.netlify.app/
 
 
 ## 📸 Screenshots
 
-![alt text](image.png)
+![alt text](image-2.png)
 
-![alt text](image-1.png)
+![alt text](image-3.png)
 
 
-##🧠 What I Learned
+## 🧠 What I Learned
 
 React component design and state management
 
@@ -94,7 +93,7 @@ Environmental variables and secure API integration
 Vite for fast development experience
 
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first.
 
@@ -113,3 +112,7 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+### 📄 License
+    
+This project is licensed under the MIT License. See the LICENSE file for more details.
